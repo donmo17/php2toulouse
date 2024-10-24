@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../JSON"
+		},
+		{
+			"path": "../FICHIERS"
+		}
+	],
+	"settings": {}
+}
